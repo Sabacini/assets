@@ -1,1 +1,14 @@
-
+{
+  "name": "SabaciniCoin",
+  "symbol": "SBCICN",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x89d755df54CD3305A0C6f2CbE48393dFE72B1C7a",
+  "website": "https://sabacinicoin.site",
+  "description": "SabaciniCoin (SBCICN) is a next-generation community-driven investment token, designed to empower holders with collective decision-making and transparent profit sharing through decentralized governance.",
+  "explorer": "https://bscscan.com/token/0x89d755df54CD3305A0C6f2CbE48393dFE72B1C7a",
+  "telegram": "https://t.me/sabacinicoin",
+  "twitter": "https://twitter.com/sabacinicoin",
+  "coinmarketcap": "https://coinmarketcap.com/currencies/sabacinicoin/"
+}
